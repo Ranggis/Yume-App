@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371483061040",
+    "firebase_url": "https://yume-app-7fa51-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "yume-app-7fa51",
+    "storage_bucket": "yume-app-7fa51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371483061040:android:400ab6e085392d54b0b6f5",
+        "android_client_info": {
+          "package_name": "com.animestreamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371483061040-hbuvdm66e7bucspm2vjvu33jrfuhm481.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.animestreamingapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "371483061040-cdrfivf8pprtbesa273qg095k39jqq4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAhIOyaguMP7zvxDI-MtLrjtVV9MCKV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371483061040-cdrfivf8pprtbesa273qg095k39jqq4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

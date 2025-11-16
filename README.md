@@ -193,8 +193,6 @@ Proyek ini dikembangkan untuk tujuan edukasi dan pengembangan aplikasi streaming
 
 Below is a structured table presenting key UI components and screens of the **Yume Anime Streaming App**.
 
-<h2 align="center">📸 Application Screenshots</h2>
-
 <table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
     <th style="padding: 12px; border-bottom: 1px solid #ddd;">Screen</th>

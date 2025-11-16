@@ -208,15 +208,72 @@ Proyek ini dikembangkan untuk tujuan edukasi dan pengembangan aplikasi streaming
 
 Below is a structured table presenting key UI components and screens of the **Yume Anime Streaming App**.
 
-| Screen              | Description                                                             | Screenshot                   |
-| ------------------- | ----------------------------------------------------------------------- | ---------------------------- |
-| Home Screen         | Beranda utama dengan kategori populer dan rekomendasi.                  | *https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.01.jpeg* |
-| Anime Detail Screen | Detail lengkap anime: sinopsis, genre, rating, dan rekomendasi terkait. | *(Tambahkan gambar di sini)* |
-| Video Player        | Pemutar video landscape dengan daftar episode interaktif.               | *(Tambahkan gambar di sini)* |
-| Search Screen       | Pencarian dengan filter genre, tahun, region, dan popularitas.          | *(Tambahkan gambar di sini)* |
-| My List             | Kumpulan anime favorit pengguna.                                        | *(Tambahkan gambar di sini)* |
-| Notification        | Daftar episode terbaru berdasarkan jadwal airing.                       | *(Tambahkan gambar di sini)* |
-| Release Calendar    | Kalender rilis real-time.                                               | *(Tambahkan gambar di sini)* |
+<h2 align="center">📸 Application Screenshots</h2>
+
+<table align="center">
+  <tr>
+    <th>Screen</th>
+    <th>Description</th>
+    <th>Screenshot</th>
+  </tr>
+
+  <tr>
+    <td><b>Home Screen</b></td>
+    <td>Beranda utama dengan kategori populer dan rekomendasi.</td>
+    <td align="center">
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.01.jpeg" width="240"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Anime Detail Screen</b></td>
+    <td>Detail lengkap anime: sinopsis, genre, rating, dan rekomendasi terkait.</td>
+    <td align="center">
+      <img src="(Tambahkan link gambar)" width="240"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Video Player</b></td>
+    <td>Pemutar video landscape dengan daftar episode interaktif.</td>
+    <td align="center">
+      <img src="(Tambahkan link gambar)" width="240"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Search Screen</b></td>
+    <td>Pencarian dengan filter genre, tahun, region, dan popularitas.</td>
+    <td align="center">
+      <img src="(Tambahkan link gambar)" width="240"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>My List</b></td>
+    <td>Kumpulan anime favorit pengguna.</td>
+    <td align="center">
+      <img src="(Tambahkan link gambar)" width="240"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Notification</b></td>
+    <td>Daftar episode terbaru berdasarkan jadwal airing.</td>
+    <td align="center">
+      <img src="(Tambahkan link gambar)" width="240"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Release Calendar</b></td>
+    <td>Kalender rilis real-time.</td>
+    <td align="center">
+      <img src="(Tambahkan link gambar)" width="240"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 

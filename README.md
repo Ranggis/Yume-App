@@ -142,17 +142,64 @@ AnimeStreamingApp
  │   │   └── MainTabs.tsx
  │   ├── screens
  │   │   ├── account_setup
+ │   │   │   ├── ChooseInterestScreen.tsx
+ │   │   │   ├── CreatePinScreen.tsx
+ │   │   │   ├── FillProfileScreen.tsx
+ │   │   │   └── SetFingerprintScreen.tsx
  │   │   ├── anime_details
+ │   │   │   └── AnimeDetailScreen.tsx
  │   │   ├── auth
+ │   │   │   ├── ForgotPasswordScreen.tsx
+ │   │   │   ├── IdentifyAccountScreen.tsx
+ │   │   │   ├── ResetNewPasswordScreen.tsx
+ │   │   │   └── ResetVerificationScreen.tsx
  │   │   ├── comments
+ │   │   │   └── CommentsScreen.tsx
  │   │   ├── components
+ │   │   │   ├── AnimatedCheckbox.tsx
+ │   │   │   ├── DeleteDownloadModal.tsx
+ │   │   │   ├── DownloadModal.tsx
+ │   │   │   ├── DownloadProgressModal.tsx
+ │   │   │   ├── HeaderBack.tsx
+ │   │   │   ├── LogoutModal.tsx
+ │   │   │   ├── PaymentSuccessModal.tsx
+ │   │   │   ├── RatingModal.tsx
+ │   │   │   ├── SetupCompleteModal.tsx
+ │   │   │   └── ShareModal.tsx
  │   │   ├── download
+ │   │   │   └── DownloadScreen.tsx
  │   │   ├── home
+ │   │   │   ├── FilterScreen.tsx
+ │   │   │   ├── HomeScreen.tsx
+ │   │   │   ├── NewEpisodesScreen.tsx
+ │   │   │   ├── NotificationScreen.tsx
+ │   │   │   ├── SearchScreen.tsx
+ │   │   │   └── TopHitsScreen.tsx
  │   │   ├── main
+ │   │   │   ├── LoginScreen.tsx
+ │   │   │   ├── SignUpScreen.tsx
+ │   │   │   ├── SplashScreen.tsx
+ │   │   │   ├── StartedLogin.tsx
+ │   │   │   └── StartScreen.tsx
  │   │   ├── mylist
+ │   │   │   └── MyListScreen.tsx
  │   │   ├── profil
+ │   │   │   ├── AddCardScreen.tsx
+ │   │   │   ├── DownloadSettingsScreen.tsx
+ │   │   │   ├── EditProfileScreen.tsx
+ │   │   │   ├── HelpCenterScreen.tsx
+ │   │   │   ├── LanguageSettingsScreen.tsx
+ │   │   │   ├── NotificationSettingsScreen.tsx
+ │   │   │   ├── PaymentScreen.tsx
+ │   │   │   ├── PremiumScreen.tsx
+ │   │   │   ├── PrivacyPolicyScreen.tsx
+ │   │   │   ├── ProfileScreen.tsx
+ │   │   │   ├── ReviewSummaryScreen.tsx
+ │   │   │   └── SecuritySettingsScreen.tsx
  │   │   ├── realase_calender
+ │   │   │   └── ReleaseCalendarScreen.tsx
  │   │   └── video
+ │   │   │   └── VideoPlayerScreen.tsx
  │   ├── services
  │   │   └── authService.ts
  │   └── types
@@ -173,15 +220,6 @@ AnimeStreamingApp
 8. Optimasi
 9. Build release
 10. Dokumentasi README profesional
-
----
-
-## Instalasi
-
-```
-npm install
-yarn android
-```
 
 ---
 

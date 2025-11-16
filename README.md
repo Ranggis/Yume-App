@@ -185,10 +185,6 @@ yarn android
 
 ---
 
-## Lisensi
-
-Proyek ini dikembangkan untuk tujuan edukasi dan pengembangan aplikasi streaming anime modern.
-
 ## Screenshots
 
 Below is a structured table presenting key UI components and screens of the **Yume Anime Streaming App**.
@@ -280,8 +276,6 @@ Below is a structured table presenting key UI components and screens of the **Yu
     </td>
   </tr>
 </table>
-
-
 
 ---
 
@@ -473,3 +467,7 @@ Edit any file (e.g., `App.tsx`), save it, and the app will refresh using **Fast 
 * GitHub Repo: [https://github.com/facebook/react-native](https://github.com/facebook/react-native)
 
 ---
+
+## Lisensi
+
+Proyek ini dikembangkan untuk tujuan edukasi dan pengembangan aplikasi streaming anime modern.

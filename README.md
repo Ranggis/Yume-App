@@ -369,13 +369,6 @@ Edit any file (e.g., `App.tsx`), save it, and the app will refresh using **Fast 
 
 ---
 
-## Troubleshooting
-
-If you face issues, refer to:
-[https://reactnative.dev/docs/troubleshooting](https://reactnative.dev/docs/troubleshooting)
-
----
-
 ## Learn More
 
 * React Native Docs: [https://reactnative.dev](https://reactnative.dev)

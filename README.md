@@ -1,7 +1,7 @@
 # Yume Anime Streaming App
 
 <p align="center">
-  <img src="https://github.com/Ranggis/Yume-App/blob/main/assets/logo.png" alt="Yume Logo" width="150" />
+  <img src="https://github.com/Ranggis/Yume-App/blob/main/assets/logo.png" alt="Yume Logo" width="300" />
 </p>
 
 ## Vision & Essence of Yume

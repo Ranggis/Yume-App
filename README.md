@@ -210,69 +210,84 @@ Below is a structured table presenting key UI components and screens of the **Yu
 
 <h2 align="center">📸 Application Screenshots</h2>
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <th>Screen</th>
-    <th>Description</th>
-    <th>Screenshot</th>
+    <th style="padding: 12px; border-bottom: 1px solid #ddd;">Screen</th>
+    <th style="padding: 12px; border-bottom: 1px solid #ddd;">Description</th>
+    <th style="padding: 12px; border-bottom: 1px solid #ddd;">Screenshot</th>
   </tr>
 
+  <!-- HOME -->
   <tr>
-    <td><b>Home Screen</b></td>
-    <td>Beranda utama dengan kategori populer dan rekomendasi.</td>
-    <td align="center">
-      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.01.jpeg" width="240"/>
+    <td style="padding: 20px; font-weight: bold;">Home Screen</td>
+    <td style="padding: 20px;">Beranda utama dengan kategori populer dan rekomendasi.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.01.jpeg"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 
+  <!-- DETAIL -->
   <tr>
-    <td><b>Anime Detail Screen</b></td>
-    <td>Detail lengkap anime: sinopsis, genre, rating, dan rekomendasi terkait.</td>
-    <td align="center">
-      <img src="(Tambahkan link gambar)" width="240"/>
+    <td style="padding: 20px; font-weight: bold;">Anime Detail Screen</td>
+    <td style="padding: 20px;">Detail lengkap anime: sinopsis, genre, rating, dan rekomendasi terkait.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="(Tambahkan link gambar)"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 
+  <!-- VIDEO PLAYER -->
   <tr>
-    <td><b>Video Player</b></td>
-    <td>Pemutar video landscape dengan daftar episode interaktif.</td>
-    <td align="center">
-      <img src="(Tambahkan link gambar)" width="240"/>
+    <td style="padding: 20px; font-weight: bold;">Video Player</td>
+    <td style="padding: 20px;">Pemutar video landscape dengan daftar episode interaktif.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="(Tambahkan link gambar)"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 
+  <!-- SEARCH -->
   <tr>
-    <td><b>Search Screen</b></td>
-    <td>Pencarian dengan filter genre, tahun, region, dan popularitas.</td>
-    <td align="center">
-      <img src="(Tambahkan link gambar)" width="240"/>
+    <td style="padding: 20px; font-weight: bold;">Search Screen</td>
+    <td style="padding: 20px;">Pencarian dengan filter genre, tahun, region, dan popularitas.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="(Tambahkan link gambar)"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 
+  <!-- MY LIST -->
   <tr>
-    <td><b>My List</b></td>
-    <td>Kumpulan anime favorit pengguna.</td>
-    <td align="center">
-      <img src="(Tambahkan link gambar)" width="240"/>
+    <td style="padding: 20px; font-weight: bold;">My List</td>
+    <td style="padding: 20px;">Kumpulan anime favorit pengguna.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="(Tambahkan link gambar)"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 
+  <!-- NOTIFICATION -->
   <tr>
-    <td><b>Notification</b></td>
-    <td>Daftar episode terbaru berdasarkan jadwal airing.</td>
-    <td align="center">
-      <img src="(Tambahkan link gambar)" width="240"/>
+    <td style="padding: 20px; font-weight: bold;">Notification</td>
+    <td style="padding: 20px;">Daftar episode terbaru berdasarkan jadwal airing.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="(Tambahkan link gambar)"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 
+  <!-- CALENDAR -->
   <tr>
-    <td><b>Release Calendar</b></td>
-    <td>Kalender rilis real-time.</td>
-    <td align="center">
-      <img src="(Tambahkan link gambar)" width="240"/>
+    <td style="padding: 20px; font-weight: bold;">Release Calendar</td>
+    <td style="padding: 20px;">Kalender rilis real-time.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="(Tambahkan link gambar)"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 </table>
+
 
 
 ---

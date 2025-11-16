@@ -171,7 +171,7 @@ AnimeStreamingApp
  │   ├── services
  │   │   └── authService.ts
  │   └── types
- └── └──   └── react-native-video.d.ts
+ └── └── └── react-native-video.d.ts
 ```
 
 ---

@@ -210,7 +210,7 @@ Below is a structured table presenting key UI components and screens of the **Yu
 
 | Screen              | Description                                                             | Screenshot                   |
 | ------------------- | ----------------------------------------------------------------------- | ---------------------------- |
-| Home Screen         | Beranda utama dengan kategori populer dan rekomendasi.                  | *(Tambahkan gambar di sini)* |
+| Home Screen         | Beranda utama dengan kategori populer dan rekomendasi.                  | *https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.01.jpeg* |
 | Anime Detail Screen | Detail lengkap anime: sinopsis, genre, rating, dan rekomendasi terkait. | *(Tambahkan gambar di sini)* |
 | Video Player        | Pemutar video landscape dengan daftar episode interaktif.               | *(Tambahkan gambar di sini)* |
 | Search Screen       | Pencarian dengan filter genre, tahun, region, dan popularitas.          | *(Tambahkan gambar di sini)* |

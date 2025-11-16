@@ -232,7 +232,7 @@ Below is a structured table presenting key UI components and screens of the **Yu
     </td>
   </tr>
 
-    <!-- NOTIFICATION -->
+  <!-- NOTIFICATION -->
   <tr>
     <td style="padding: 20px; font-weight: bold;">Notification</td>
     <td style="padding: 20px;">Daftar episode terbaru berdasarkan jadwal airing</td>
@@ -242,7 +242,7 @@ Below is a structured table presenting key UI components and screens of the **Yu
     </td>
   </tr>
 
-    <!-- CALENDAR -->
+  <!-- CALENDAR -->
   <tr>
     <td style="padding: 20px; font-weight: bold;">Release Calendar</td>
     <td style="padding: 20px;">Kalender rilis real-tim.</td>

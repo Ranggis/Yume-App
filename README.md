@@ -61,21 +61,6 @@ Setiap fitur dipisahkan pada folder terstruktur, mudah dikembangkan untuk produc
 
 ---
 
-## Screenshot Aplikasi
-
-<p align="center">
-  <img src="screens/home.png" width="260" />
-  <img src="screens/detail.png" width="260" />
-  <img src="screens/player.png" width="260" />
-</p>
-<p align="center">
-  <img src="screens/search.png" width="260" />
-  <img src="screens/mylist.png" width="260" />
-  <img src="screens/calendar.png" width="260" />
-</p>
-
----
-
 ## Project Criteria
 
 Berikut tabel adaptasi Project Criteria:
@@ -220,7 +205,7 @@ Below is a structured table presenting key UI components and screens of the **Yu
   <!-- HOME -->
   <tr>
     <td style="padding: 20px; font-weight: bold;">Home Screen</td>
-    <td style="padding: 20px;">Beranda utama dengan kategori populer dan rekomendasi.</td>
+    <td style="padding: 20px;">Beranda utama dengan kategori populer dan rekomendasi</td>
     <td style="padding: 20px;" align="center">
       <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.01.jpeg"
            width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
@@ -232,17 +217,7 @@ Below is a structured table presenting key UI components and screens of the **Yu
     <td style="padding: 20px; font-weight: bold;">Anime Detail Screen</td>
     <td style="padding: 20px;">Detail lengkap anime: sinopsis, genre, rating, dan rekomendasi terkait.</td>
     <td style="padding: 20px;" align="center">
-      <img src="(Tambahkan link gambar)"
-           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
-    </td>
-  </tr>
-
-  <!-- VIDEO PLAYER -->
-  <tr>
-    <td style="padding: 20px; font-weight: bold;">Video Player</td>
-    <td style="padding: 20px;">Pemutar video landscape dengan daftar episode interaktif.</td>
-    <td style="padding: 20px;" align="center">
-      <img src="(Tambahkan link gambar)"
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.02.jpeg"
            width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
@@ -250,9 +225,29 @@ Below is a structured table presenting key UI components and screens of the **Yu
   <!-- SEARCH -->
   <tr>
     <td style="padding: 20px; font-weight: bold;">Search Screen</td>
-    <td style="padding: 20px;">Pencarian dengan filter genre, tahun, region, dan popularitas.</td>
+    <td style="padding: 20px;">Pencarian dengan filter genre, tahun, region, dan popularitas</td>
     <td style="padding: 20px;" align="center">
-      <img src="(Tambahkan link gambar)"
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.02%20(1).jpeg"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
+    </td>
+  </tr>
+
+    <!-- NOTIFICATION -->
+  <tr>
+    <td style="padding: 20px; font-weight: bold;">Notification</td>
+    <td style="padding: 20px;">Daftar episode terbaru berdasarkan jadwal airing</td>
+    <td style="padding: 20px;" align="center">
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.03%20(2).jpeg"
+           width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
+    </td>
+  </tr>
+
+    <!-- CALENDAR -->
+  <tr>
+    <td style="padding: 20px; font-weight: bold;">Release Calendar</td>
+    <td style="padding: 20px;">Kalender rilis real-tim.</td>
+    <td style="padding: 20px;" align="center">
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.03.jpeg"
            width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
@@ -260,29 +255,29 @@ Below is a structured table presenting key UI components and screens of the **Yu
   <!-- MY LIST -->
   <tr>
     <td style="padding: 20px; font-weight: bold;">My List</td>
-    <td style="padding: 20px;">Kumpulan anime favorit pengguna.</td>
+    <td style="padding: 20px;">Kumpulan anime favorit pengguna</td>
     <td style="padding: 20px;" align="center">
-      <img src="(Tambahkan link gambar)"
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.02%20(2).jpeg"
            width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
 
-  <!-- NOTIFICATION -->
+  <!-- Download -->
   <tr>
-    <td style="padding: 20px; font-weight: bold;">Notification</td>
-    <td style="padding: 20px;">Daftar episode terbaru berdasarkan jadwal airing.</td>
+    <td style="padding: 20px; font-weight: bold;">Download</td>
+    <td style="padding: 20px;">Kumpulan Download Anime</td>
     <td style="padding: 20px;" align="center">
-      <img src="(Tambahkan link gambar)"
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.03%20(1).jpeg"
            width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>
-
-  <!-- CALENDAR -->
+  
+  <!-- Profil -->
   <tr>
-    <td style="padding: 20px; font-weight: bold;">Release Calendar</td>
-    <td style="padding: 20px;">Kalender rilis real-time.</td>
+    <td style="padding: 20px; font-weight: bold;">Profil</td>
+    <td style="padding: 20px;">Profil pengguna</td>
     <td style="padding: 20px;" align="center">
-      <img src="(Tambahkan link gambar)"
+      <img src="https://github.com/Ranggis/Api-Image/blob/main/WhatsApp%20Image%202025-11-16%20at%2013.02.04.jpeg"
            width="260" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
     </td>
   </tr>

@@ -131,17 +131,47 @@ Menggunakan **Jikan API**, **AniList GraphQL**, dan custom streaming provider.
 ## Arsitektur Screen & Navigasi
 
 ```
-AppNavigator
- ├── BottomTabs
- │   ├── Home
- │   ├── Search
- │   ├── MyList
- │   ├── Calendar
- │   └── Profile
- ├── AnimeDetailScreen
- ├── VideoPlayerScreen
- ├── TopHitsScreen
- └── NotificationScreen
+AnimeStreamingApp
+ ├── _tests-
+ ├── .bundle
+ ├── android
+ ├── assets
+ ├── ios
+ ├── node_modules
+ ├── src
+ │   ├── api
+ │   │   ├── anilist.ts
+ │   │   ├── animeVideo.ts
+ │   │   ├── jikan.ts
+ │   │   ├── jikanNotifications.ts
+ │   │   └── youtubeService.ts
+ │   ├── config
+ │   │   ├── firebaseConfig.ts
+ │   │   └── firestoreConfig.ts
+ │   ├── context
+ │   │   └── CommentContext.tsx
+ │   ├── manager
+ │   │   └── DownloadManager.ts
+ │   ├── navigation
+ │   │   ├── AppNavigator.tsx
+ │   │   └── MainTabs.tsx
+ │   ├── screens
+ │   │   ├── account_setup
+ │   │   ├── anime_details
+ │   │   ├── auth
+ │   │   ├── comments
+ │   │   ├── components
+ │   │   ├── download
+ │   │   ├── home
+ │   │   ├── main
+ │   │   ├── mylist
+ │   │   ├── profil
+ │   │   ├── realase_calender
+ │   │   └── video
+ │   ├── services
+ │   │   └── authService.ts
+ │   └── types
+ │   │   └── react-native-video.d.ts
 ```
 
 ---

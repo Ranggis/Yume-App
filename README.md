@@ -192,18 +192,18 @@ Below is a structured table presenting key UI components and screens of the **Yu
 
 ## Project Criteria & Assessment Table
 
-| Kriteria           | Bobot | Penjelasan                                                | Penilaian   |
-| ------------------ | ----- | --------------------------------------------------------- | ----------- |
-| Deskripsi Masalah  | 10%   | Menjelaskan kebutuhan dan urgensi aplikasi bagi pengguna. | Sangat Baik |
-| Tujuan Sistem      | 10%   | Menjabarkan hasil akhir yang ingin dicapai aplikasi.      | Excellent   |
-| Ruang Lingkup      | 10%   | Batasan fungsional aplikasi dan fitur utama.              | Sangat Baik |
-| Fitur Utama        | 15%   | Kesesuaian fitur dengan kebutuhan dan konsistensi UX.     | Excellent   |
-| Arsitektur Sistem  | 10%   | Desain struktur aplikasi dan integrasi API.               | Baik Sekali |
-| Desain UI/UX       | 10%   | Konsistensi visual, kemudahan navigasi, dan estetika.     | Sangat Baik |
-| Kinerja & Optimasi | 10%   | Kecepatan load, efisiensi API, dan caching.               | Excellent   |
-| Keamanan           | 5%    | Perlindungan data pengguna dan sanitasi input.            | Baik        |
-| Pengujian Sistem   | 10%   | Ketersediaan test case dan evaluasi performa.             | Sangat Baik |
-| Dokumentasi        | 10%   | Kelengkapan README dan instruksi penggunaan.              | Excellent   |
+| Kriteria           | Bobot | Penjelasan                                                |
+| ------------------ | ----- | --------------------------------------------------------- | 
+| Deskripsi Masalah  | 10%   | Menjelaskan kebutuhan dan urgensi aplikasi bagi pengguna. | 
+| Tujuan Sistem      | 10%   | Menjabarkan hasil akhir yang ingin dicapai aplikasi.      | 
+| Ruang Lingkup      | 10%   | Batasan fungsional aplikasi dan fitur utama.              | 
+| Fitur Utama        | 15%   | Kesesuaian fitur dengan kebutuhan dan konsistensi UX.     |
+| Arsitektur Sistem  | 10%   | Desain struktur aplikasi dan integrasi API.               |
+| Desain UI/UX       | 10%   | Konsistensi visual, kemudahan navigasi, dan estetika.     |
+| Kinerja & Optimasi | 10%   | Kecepatan load, efisiensi API, dan caching.               |
+| Keamanan           | 5%    | Perlindungan data pengguna dan sanitasi input.            |
+| Pengujian Sistem   | 10%   | Ketersediaan test case dan evaluasi performa.             |
+| Dokumentasi        | 10%   | Kelengkapan README dan instruksi penggunaan.              |
 
 ## Installation
 
